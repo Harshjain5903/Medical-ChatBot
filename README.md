@@ -1,3 +1,9 @@
+The Medical ChatBot project is designed to enhance healthcare accessibility by creating an intelligent chatbot that can answer basic medical questions and provide emotional support. Utilizing the advanced capabilities of Meta's LLaMA 2 model, this chatbot aims to offer reliable and immediate assistance to users seeking medical information and emotional comfort. By incorporating open-source technologies such as Python, LangChain, Flask, and Pinecone, the project provides a comprehensive guide to building a functional and scalable chatbot.
+
+The chatbot's core functionalities include understanding and responding to user queries related to common medical issues, offering suggestions for next steps, and providing empathetic responses to users in need of emotional support. The project covers everything from setting up the development environment and installing necessary dependencies to configuring the chatbot with the required models and running the application.
+
+
+
 # End-to-end-Medical-Chatbot-using-Llama2
 
 # How to run?
